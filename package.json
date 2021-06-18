@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/ksDemon/ivoox-api#readme",
     "dependencies": {
+        "axios": "^0.21.1",
         "cors": "^2.8.5",
         "express": "^4.17.1",
         "node-ivoox": "^1.1.4"
